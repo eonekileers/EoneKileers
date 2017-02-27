@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+<body>
+<p style="text-align: center;">&nbsp;</p>
 
-You can use the [editor on GitHub](https://github.com/eonekileers/flash1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<pre>
+&copy; Copyright 2016-2017<script>document.write(new Date().getFullYear())</script> | The FlashVpnTeam Project - All rights reserved
+</pre>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div id="intro"><strong>Credits</strong>
 
-### Markdown
+<pre>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+&nbsp;</pre>
 
-```markdown
-Syntax highlighted code block
+<ul>
+	<li>All User&nbsp;</li>
+	<li>FlashVpnTeam</li>
+	<li>Secret Silent Security</li>
+	<li><a href="https://telegram.me/anakkarbitan">Sifu GAtot Kaca Pecah</a></li>
+	<li><a href="https://telegram.me/ReportError">ReportError</a></li>
+	<li><a href="https://telegram.me/Chicken_killers">Chicken_killers</a></li>
+	<li><a href="https://telegram.me/firepips">firepips</a></li>
+	<li><a href="https://telegram.me/a_yein">a_yein</a></li>
+	<li><a href="https://telegram.me/jo3k3r">jo3k3r</a></li>
+	<li><a href="https://telegram.me/Sailormoon2">Sailormoon2</a></li>
+	<li><a href="https://telegram.me/Milo_Tabur">Milo_Tabur</a></li>
+	<li><a href="https://telegram.me/Lil_Devil">Lil_Devil</a></li>
+	<li><a href="http://telegram.me/kileers">EoneKileers</a></li>
+</ul>
+</div>
 
-# Header 1
-## Header 2
-### Header 3
+<pre>
 
-- Bulleted
-- List
+&nbsp;</pre>
 
-1. Numbered
-2. List
+<pre>
+&copy; 2016-2017, FlashVpnTeam Inc. All rights reserved.</pre>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eonekileers/flash1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p>&nbsp;</p>
+</body>
